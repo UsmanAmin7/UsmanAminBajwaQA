@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Here is my Portfolio link: https://usmanaminbajwa.qa.com/
+- Here is my Portfolio link: https://victorpk.com/
+
 
 
 <!---
